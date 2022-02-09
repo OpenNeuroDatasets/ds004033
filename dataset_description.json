@@ -1,13 +1,15 @@
 {
-  "Name": "Electrode walking study",
-  "BIDSVersion": "v2.0",
-  "License": "Creative commons",
-  "Authors": [
-    "Joanna Scanlon",
-    "Nadine Jacobsen",
-    "Marike Maack",
-    "Stefan Debener"
-  ],
-  "ReferencesAndLinks": ["article link follows:"],
-  "DatasetDOI": "10.1111/ejn.15037"
+    "Name": "Electrode walking study",
+    "BIDSVersion": "v2.0",
+    "License": "CC0",
+    "Authors": [
+        "Joanna Scanlon",
+        "Nadine Jacobsen",
+        "Marike Maack",
+        "Stefan Debener"
+    ],
+    "ReferencesAndLinks": [
+        "article link follows:"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004033.v1.0.0"
 }
