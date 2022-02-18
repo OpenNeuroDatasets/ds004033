@@ -1,0 +1,18 @@
+{
+  "InstitutionAddress": "Ammerlaender Heerstr. 114-118, 26129 Oldenburg, Germany",
+  "InstitutionName": "University of Oldenburg",
+  "InstitutionalDepartmentName": "Department of Psychology",
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "LiveAmp",
+  "TaskName": "mixed",
+  "EEGChannelCount": 64,
+  "MiscChannelCount": 3,
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 3964.212,
+  "SamplingFrequency": 500,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
